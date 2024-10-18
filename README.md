@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vshinji" alt="vshinji" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube clone](https://github.com/vShinji/youtube-clone)
+- 🔭 I’m currently working on [Spotify App](https://github.com/vShinji/spotifyapp)
 
 - 🌱 I’m currently learning **FrontendMasters**
 
