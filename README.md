@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shinji!</h1>
 <h3 align="center">A passionate frontend developer from Brasil based in Japan.!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vshinji" alt="vshinji" /></a> </p>
-
 - 🔭 I’m currently working on [Spotify App](https://github.com/vShinji/spotifyapp)
 
 - 🌱 I’m currently learning **FrontendMasters**
